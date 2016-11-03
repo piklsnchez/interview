@@ -9,7 +9,7 @@ Form will submit to restful service on server-side and return the string sent wi
 Points to note:
  User input must be validated before form is submitted.
  Error message should be displayed to user if input is invalid.
- Text entered should presist if not submitted.
+ Text entered should persist if not submitted.
  Server-side should validate input that was submitted, and respond with the input case reversed or an error message.
  The front end code should distinguish between an error response and a sussesful response.
 
