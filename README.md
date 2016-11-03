@@ -11,5 +11,5 @@ Points to note:
  Error message should be displayed to user if input is invalid.
  Text entered should persist if not submitted.
  Server-side should validate input that was submitted, and respond with the input case reversed or an error message.
- The front end code should distinguish between an error response and a sussesful response.
+ The front end code should distinguish between an error response and a succesful response.
 
