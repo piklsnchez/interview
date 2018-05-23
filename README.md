@@ -1,6 +1,6 @@
 Simple project for a java interview
 
-Create a webpage with one form and one text field that excepts user input
+Create a webpage with one form and one text field that accepts user input
 
 Only allow a-zA-Z in text field
 
